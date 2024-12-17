@@ -1,6 +1,4 @@
-# C++ Assignments Collection
-
-This repository contains beginner-level C++ programs designed to cover fundamental programming concepts. Each assignment includes multiple tasks, such as string manipulation, mathematical calculations, loops, conditional statements, arrays, and sorting algorithms.
+# CipherCoders C++ Assignments Collection
 
 ## Table of Contents
 1. [Assignment 01](#assignment-01) - [Source Code](https://github.com/MrityunjayMaharana/CipherCoders_Updates/blob/main/assignment_01.cpp)
