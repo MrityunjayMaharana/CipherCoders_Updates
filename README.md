@@ -1,12 +1,12 @@
 # CipherCoders C++ Assignments Collection
 
 ## Table of Contents
-1. [Assignment 01](#assignment-01) - [Source Code](https://github.com/MrityunjayMaharana/CipherCoders_Updates/blob/main/assignment_01.cpp)
-2. [Assignment 02](#assignment-02) - [Source Code](https://github.com/MrityunjayMaharana/CipherCoders_Updates/blob/main/assignment_02.cpp)
-3. [Assignment 03](#assignment-03) - [Source Code](https://github.com/MrityunjayMaharana/CipherCoders_Updates/blob/main/assignment_03.cpp)
-4. [Assignment 04](#assignment-04) - [Source Code](https://github.com/MrityunjayMaharana/CipherCoders_Updates/blob/main/assignment_04.cpp)
-5. [Assignment 05](#assignment-05) - [Source Code](https://github.com/MrityunjayMaharana/CipherCoders_Updates/blob/main/assignment_05.cpp)
-6. [Assignment 06](#assignment-05) - [Source Code](https://github.com/MrityunjayMaharana/CipherCoders_Updates/blob/main/assignment_06.cpp)
+1. Assignment 01 - [Source Code](https://github.com/MrityunjayMaharana/CipherCoders_Updates/blob/main/assignment_01.cpp)
+2. Assignment 02 - [Source Code](https://github.com/MrityunjayMaharana/CipherCoders_Updates/blob/main/assignment_02.cpp)
+3. Assignment 03 - [Source Code](https://github.com/MrityunjayMaharana/CipherCoders_Updates/blob/main/assignment_03.cpp)
+4. Assignment 04 - [Source Code](https://github.com/MrityunjayMaharana/CipherCoders_Updates/blob/main/assignment_04.cpp)
+5. Assignment 05 - [Source Code](https://github.com/MrityunjayMaharana/CipherCoders_Updates/blob/main/assignment_05.cpp)
+6. Assignment 06 - [Source Code](https://github.com/MrityunjayMaharana/CipherCoders_Updates/blob/main/assignment_06.cpp)
 
 ---
 
