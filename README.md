@@ -6,6 +6,7 @@
 3. [Assignment 03](#assignment-03) - [Source Code](https://github.com/MrityunjayMaharana/CipherCoders_Updates/blob/main/assignment_03.cpp)
 4. [Assignment 04](#assignment-04) - [Source Code](https://github.com/MrityunjayMaharana/CipherCoders_Updates/blob/main/assignment_04.cpp)
 5. [Assignment 05](#assignment-05) - [Source Code](https://github.com/MrityunjayMaharana/CipherCoders_Updates/blob/main/assignment_05.cpp)
+6. [Assignment 06](#assignment-05) - [Source Code](https://github.com/MrityunjayMaharana/CipherCoders_Updates/blob/main/assignment_06.cpp)
 
 ---
 
@@ -131,6 +132,22 @@
   ```
 
 ---
+
+## Assignment 06
+
+[View Source Code](https://github.com/MrityunjayMaharana/CipherCoders_Updates/blob/main/assignment_06.cpp)
+
+### Task: Contains Duplicate in Array
+- Given an integer array nums, return `true` if any value appears at least twice in the array, and return `false` if every element is distinct.
+
+- **Input Example:**
+  ```
+  nums = [1, 2, 3, 1]
+  ```
+- **Output Example:**
+  ```
+  true
+  ```
 
 ## Author
 This repository is a collection of basic C++ programming assignments developed for practice.
