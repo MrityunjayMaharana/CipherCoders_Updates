@@ -7,6 +7,7 @@
 4. Assignment 04 - [Source Code](https://github.com/MrityunjayMaharana/CipherCoders_Updates/blob/main/assignment_04.cpp)
 5. Assignment 05 - [Source Code](https://github.com/MrityunjayMaharana/CipherCoders_Updates/blob/main/assignment_05.cpp)
 6. Assignment 06 - [Source Code](https://github.com/MrityunjayMaharana/CipherCoders_Updates/blob/main/assignment_06.cpp)
+7. Assignment 07 - [Source Code](https://github.com/MrityunjayMaharana/CipherCoders_Updates/blob/main/assignment_07.cpp)
 
 ---
 
@@ -147,6 +148,32 @@
 - **Output Example:**
   ```
   true
+  ```
+  
+---
+
+## Assignment 07
+
+[View Source Code](https://github.com/MrityunjayMaharana/CipherCoders_Updates/blob/main/assignment_07.cpp)
+
+### Task: Return Max profit after Stock Buy & Sell
+- given an array prices where prices[i] is the price of a given stock on the ith day.
+
+- You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock.
+
+- Return the maximum profit you can achieve from this transaction. If you cannot achieve any profit, return 0.
+
+- **Input Example:**
+  ```
+  prices = [7,1,5,3,6,4]
+  ```
+- **Output Example:**
+  ```
+  5
+  ```
+- **Explanation:**
+  ```
+  Buy on day 2 (price = 1) and sell on day 5 (price = 6), profit = 6-1 = 5. Note that buying on day 2 and selling on day 1 is not allowed because you must buy before you sell.
   ```
 
 ## Author
